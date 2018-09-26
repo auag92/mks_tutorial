@@ -28,8 +28,10 @@ MKS Tutorial
 <a href="https://github.com/wd15/mks-tutorial/blob/master/LICENSE">
 <img src="https://img.shields.io/badge/license-mit-blue.svg" alt="License" eight="18">
 </a>
+
+<a href="https://mybinder.org/v2/gh/auag92/mks_tutorial.git/master" target="_blank">
+<img src="http://mybinder.org/badge.svg" alt="Binder">
 </p>
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/auag92/mks_tutorial.git/master)
 
 ## Versions
 
